@@ -1,15 +1,13 @@
 # Vajilla y Mantelería - Planificación de Eventos
 
-**Vajilla y Mantelería** es una aplicación diseñada para facilitar la planificación de eventos, permitiendo a los usuarios gestionar su itinerario, agregar actividades, explorar productos y conectarse con proveedores de vajilla y mantelería para todo tipo de celebraciones. El sistema está compuesto por dos partes: un **frontend** desplegado en [Netlify](https://www.netlify.com/) y un **backend** en [Render](https://render.com/), todo integrado de manera sencilla y eficiente.
+**Vajilla y Mantelería** es una aplicación web diseñada para facilitar la planificación de eventos. Permite a los usuarios explorar productos de vajilla y mantelería, agregarlos al carrito, y contactar a los proveedores para alquilar los productos que necesitan para sus celebraciones. El sistema está compuesto por dos partes: un **frontend** desplegado en [Netlify](https://www.netlify.com/) y un **backend** en [Render](https://render.com/), todo integrado de manera sencilla y eficiente.
 
 ## Características
 
-- **Planificación de itinerarios:** Los usuarios pueden agregar actividades al itinerario de su evento y organizarlas por días.
 - **Exploración de productos:** Accede a un catálogo de vajilla, mantelería y productos relacionados para tu evento.
-- **Integración con proveedores:** Los usuarios pueden elegir entre diversos productos disponibles y añadirlos a su itinerario.
+- **Integración con proveedores:** Los usuarios pueden elegir entre diversos productos disponibles y añadirlos al carrito.
 - **Interfaz intuitiva:** Un diseño minimalista y moderno para facilitar la experiencia de usuario.
-- **Funciones colaborativas:** Los participantes pueden añadir o eliminar actividades y compartir información fácilmente.
-- **Contador regresivo:** Una cuenta atrás para el inicio del evento, mostrando el tiempo restante de manera visual.
+- **Funciones colaborativas:** Los participantes pueden añadir o eliminar productos.
 
 ## Tecnologías
 
