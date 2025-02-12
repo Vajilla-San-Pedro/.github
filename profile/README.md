@@ -19,7 +19,7 @@
 
 ### Backend
 - **Node.js & Express** - Servidor backend para manejar las solicitudes de los usuarios.
-- **MongoDB** - Base de datos NoSQL para almacenar información de productos, itinerarios y actividades.
+- **PostgreSQL** - Base de datos
 - **Render** - Plataforma de hosting para el backend.
 
 
