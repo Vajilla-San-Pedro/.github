@@ -20,6 +20,6 @@
 ### Backend
 - **Node.js & Express** - Servidor backend para manejar las solicitudes de los usuarios.
 - **PostgreSQL** - Base de datos
-- **Render** - Plataforma de hosting para el backend.
+- **Railway** - Plataforma de hosting para la base de datos y el backend.
 
 
